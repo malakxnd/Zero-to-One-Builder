@@ -131,7 +131,7 @@ Everything else (`index.html`, `main.jsx`, `vite.config.js`, etc.) is standard V
 ---
  
 ### Stage 4 — Multi-Perspective Debate
-*Four viewpoints that genuinely disagree — Founder, Investor, Engineer, Customer.*
+*Four viewpoints that genuinely disagree - Founder, Investor, Engineer, Customer.*
  
 ![Perspectives Stage](screenshots/stage4.png)
  
