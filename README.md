@@ -100,6 +100,50 @@ Everything else (`index.html`, `main.jsx`, `vite.config.js`, etc.) is standard V
 | Fonts | Playfair Display, DM Sans, JetBrains Mono |
 
 ---
+# What it looks like
+ 
+### User Input Form Page
+![Landing Page](screenshots/user_input_form.png)
+ 
+---
+ 
+### Stage 1 — Clarify
+*Surfaces the gaps in your idea with targeted questions before the analysis begins.*
+ 
+![Clarify Stage](screenshots/stage1.png)
+ 
+---
+ 
+### Stage 2 — Idea Analysis
+*Maps the problem, target user, value proposition, and scores ambition vs resources.*
+ 
+![Analysis](screenshots/stage2.png)
+ 
+---
+ 
+### Stage 3 — Assumptions & Confidence
+*Names the 4 things your idea secretly depends on being true, with honest evidence scores.*
+ 
+![Risk Stage](screenshots/stage3-I.png)
+![Risk confidence scores](screenshots/stage3-2.png)
+![Weighted evidence factors](screenshots/stage3-3.png)
+ 
+---
+ 
+### Stage 4 — Multi-Perspective Debate
+*Four viewpoints that genuinely disagree — Founder, Investor, Engineer, Customer.*
+ 
+![Perspectives Stage](screenshots/stage4.png)
+ 
+---
+ 
+### Stage 5 — Execution Paths
+*Three concrete paths, scored against criteria specific to your idea, plus one first experiment.*
+ 
+![Execution Paths + First Experiment](screenshots/stage5-1.png)
+![Weighted Comparison](screenshots/stage5-2.png)
+ 
+---
 
 ## Built for
 
